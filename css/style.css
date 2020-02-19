@@ -1,0 +1,28 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(235, 235, 235);
+}
+
+.nav-item {
+    font-weight: 400;
+}
+
+.form-control {
+    border-color: white;
+    border-radius: 15px;
+}
+
+.btn-search {
+    border-color: white;
+    border-radius: 50%;
+}
+
+.section {
+    margin-top: 65px;
+}
+
+.button-dana {
+    border-radius: 15px;
+    padding: 5px 145px 5px 145px;
+    font-weight: bold;
+}
